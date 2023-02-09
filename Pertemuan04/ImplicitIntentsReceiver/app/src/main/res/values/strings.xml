@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intents Receiver</string>
+    <string name="uri_label">URI:</string>
+    <string name="edittext_uri">edit text uri</string>
+    <string name="button_uri">button uri</string>
+    <string name="edittext_loc">edit text loc</string>
+    <string name="button_loc">button loc</string>
+    <string name="edittext_share">edit text share</string>
+    <string name="button_share">button share</string>
+    <string name="share_text_with">share text with</string>
+</resources>

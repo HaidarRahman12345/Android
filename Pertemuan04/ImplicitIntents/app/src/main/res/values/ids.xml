@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_picture" type="id">button picture</item>
+    <item name="website_edittext" type="id">website_editext</item>
+</resources>

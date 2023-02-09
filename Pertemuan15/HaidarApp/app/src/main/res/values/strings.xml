@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Haidar App</string>
+    <string name="input_control_activity">input_control_activity</string>
+    <string name="list_view">list_view</string>
+    <string name="quit">quit</string>
+    <string name="recycleviewactivity">recycleviewactivity</string>
+</resources>
